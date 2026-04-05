@@ -1,4 +1,4 @@
-##✨ About Me:
+## ✨ About Me:
 Hey there, Welcome 👋🏻<br> 🎀 I'm Sukhmanpreet kaur <br> 🎓 Second year Btech CSE ( AIML) student<br>💻 Currently learning DSA in C++<br>🤖 AI/ML & Open Source Enthusiast<br>🚀 Turning learning into real-world skills & projects
 
 
