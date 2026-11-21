@@ -12,13 +12,11 @@
 
 ### 🎀 About Me
 
-- 🎓 Third-year B.Tech CSE (AI & ML) student
-- 💻 Exploring Data Structures & Algorithms in C++
-- 🌱 Learning Full Stack Development
-- 🤖 Interested in AI/ML and Open Source
-- 🚀 Turning ideas into practical projects
-- ✨ Always curious, always learning
-
+🎀 Sukhmanpreet Kaur | CSE '28, KUK
+☕ Turning curiosity into code, one bug at a time.
+💻 Somewhere between DSA, backend & building things that work.
+🧪 I experiment, break things, debug them and learn.
+🌷 Here to build things worth sharing, not just collect certificates.
 ### 💻 Tech Stack
 
 **Languages**
