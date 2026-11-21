@@ -12,11 +12,11 @@
 
 ### 🎀 About Me
 
-🎀 Sukhmanpreet Kaur | CSE '28, KUK
-☕ Turning curiosity into code, one bug at a time.
-💻 Somewhere between DSA, backend & building things that work.
-🧪 I experiment, break things, debug them and learn.
-🌷 Here to build things worth sharing, not just collect certificates.
+🎀 I'm Sukhmanpreet Kaur — a CSE '28 student at KUK.<br>
+☕ Turning curiosity into code, one bug at a time.<br>
+💻 Exploring the world of backend, DSA & software development.<br>
+🧪 I build, experiment, break things and figure them out.<br>
+🌷 Not here to know it all, here to build something real.
 ### 💻 Tech Stack
 
 **Languages**
